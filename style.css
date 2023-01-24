@@ -1,0 +1,20 @@
+.gris{
+    background-color: rgb(50, 50, 50);
+}
+
+.gris2{
+    background-color: darkslategrey;
+}
+
+h1{
+    font-size: 3em;
+}
+
+p{
+    font-size: 1.5em;
+}
+
+main{
+    margin: 3em 0em;
+    text-align: center;
+}
